@@ -2,7 +2,7 @@ import { createContext, useContext, useState } from "react";
 
 const chairColors = [
   {
-    color: "#683434",
+    color: "#fcfcfa",
     name: "brown",
   },
   {
@@ -30,7 +30,7 @@ const chairColors = [
     name: "black",
   },
   {
-    color: "#ececec",
+    color: "#e3ba31",
     name: "white",
   },
 ];
